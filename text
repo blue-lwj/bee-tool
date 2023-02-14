@@ -1,0 +1,3 @@
+However, even for a full build the compilation speed seems bad. I'm suspicious of memory again?
+
+Having said all that i'm sure there are still issues in the code that analyzes project changes, and it only takes you hitting one of these problems for all downstream projects to suddenly require a full build.
